@@ -15,14 +15,23 @@ Data Sources
 The datasets used in this project include:
 
 List of Campaigns: Contains details of all the campaigns conducted, including campaign IDs, names, types, and dates.
+
 Trigger Campaign Performance: Provides performance metrics for trigger campaigns, including the number of customers targeted, responded, accounts booked, and total LTV.
+
 Cross-Sell Campaign Performance: Provides performance metrics for cross-sell campaigns, including similar metrics to trigger campaigns.
+
 Data Dictionary: Contains definitions and descriptions of the KPIs and other important fields.
+
 Key Insights and Recommendations
+
 Enhance Call Center Campaigns: Given the higher response rate and balance per account, focusing on enhancing and expanding Call Center campaigns could drive further engagement and conversions.
+
 Investigate Decrease in Response Rate: The slight decline in the response rate should be investigated to identify potential issues and implement strategies to improve customer engagement.
+
 Leverage Successful Strategies: Analyze the specific strategies in the Call Center leading to higher response rates and balances per account and consider applying these strategies to the Branch campaigns.
+
 Optimize Follow-Up Processes: The high worked rate in the Branch indicates effective follow-up processes that could be optimized further to improve conversion rates in the Call Center.
 
 # Conclusion
+
 This project provides a comprehensive analysis of BMO Harris Bank's marketing campaigns, offering actionable insights and strategic recommendations to enhance future campaign performance. The insights derived from this analysis can be used to fine-tune marketing strategies, optimize resource allocation, and ultimately drive higher engagement and ROI.
