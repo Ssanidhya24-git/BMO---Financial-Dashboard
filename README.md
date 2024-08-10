@@ -1,9 +1,8 @@
-Optimizing Campaign Performance: Data-Driven Insights and Strategic Recommendations
-Overview
-This project focuses on analyzing and optimizing the performance of various marketing campaigns conducted by BMO Harris Bank. The goal is to enhance customer engagement, drive sales, and maximize return on investment (ROI) through data-driven insights and strategic recommendations.
+#Optimizing Campaign Performance: Data-Driven Insights and Strategic Recommendations
+#Overview
+#This project focuses on analyzing and optimizing the performance of various marketing campaigns conducted by BMO Harris Bank. The goal is to enhance customer engagement, drive sales, and maximize return on #investment (ROI) through data-driven insights and strategic recommendations.
 
-Problem Statement
-Optimizing Marketing Campaign Performance
+#Optimizing Marketing Campaign Performance
 BMO Harris Bank has been conducting multiple marketing campaigns, including Trigger Campaigns and Cross-Sell Campaigns, aimed at boosting customer engagement and sales. To ensure these campaigns' effectiveness, a thorough analysis of campaign data is essential. This project aims to:
 
 Evaluate Campaign Effectiveness: Assess the performance of each marketing campaign using key performance indicators (KPIs) such as response rates, accounts booked, and customer lifetime value (LTV).
